@@ -1,5 +1,5 @@
 # lda_gibbs
-This is a lda implement using gibbs sampling.
+This is a lda implementation using gibbs sampling.
 
 lda.py包含中英文语料的处理，使用时在命令行输入以下内容（k为主题数，i为迭代次数，alpha和beta为超参数）；
 
